@@ -1,2 +1,2 @@
 print('hello')
-print('python')
+print('내 로컬 코드 작성')
